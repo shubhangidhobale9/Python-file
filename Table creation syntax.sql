@@ -1,4 +1,4 @@
-create table table name(
+create table table name{
   
  column name1_datatype int
  column name2_datatype pk
@@ -6,4 +6,4 @@ create table table name(
  .
  .
  column name_n datatype
-)
+}
